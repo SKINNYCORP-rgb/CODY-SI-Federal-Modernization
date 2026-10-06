@@ -39,6 +39,23 @@ federal_municipal_handshake_telemetry, statewide_jurisdiction_crosswalk
 Output Layer:
 federal_municipal_integration_audit_gate
 
+ 6A. NOAA Modernization Payload (Accession 0209268)
+
+The repository includes the file `noaa_billion_dollar_disasters_modernized.json`, a fully modernized representation of NOAA NCEI Accession 0209268. This payload is aligned with the Lighthouse Unified Hazard Schema (LUHS) and calibrated for ingestion through the CODY v7.0 engine.
+
+Payload Features
+- Publication lifecycle metadata
+- Spatial bounding box calibration
+- Hazard category alignment
+- Multi‑agency source mapping (NOAA, FEMA, USDA, USACE)
+- Zero‑Trust telemetry triggers
+- FIPS 140‑3 cryptographic validation
+- Structural drift detection and quarantine logic
+
+This file is transmission‑ready for FEMA ingestion endpoints and cross‑agency interoperability.
+
+
+
 7. TRANSMISSION‑READY RELEASE INVENTORY
 Release 01 — Federal ingestion backbone
 Release 02 — EPA/PCS compliance modernization
