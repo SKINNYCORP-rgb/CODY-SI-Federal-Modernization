@@ -1,0 +1,692 @@
+gov.noaa.nodc:0209268 eng utf8 dataset NOAA National Centers for Environmental
+Information ncei.info@noaa.gov https://www.ncei.noaa.gov/contact HTTPS NOAA Contact
+Information Information for contacts at NCEI. information custodian 2025-09-30T13:11:18Z
+ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded
+Data ISO 19115-2:2009(E) U.S. Billion-dollar Weather and Climate Disasters, 1980 - present
+(NCEI Accession 0209268) 2020-03-17 publication 2025-01-21 revision 2020-03-11 creation
+International DOI Foundation (IDF) 10.25921/stkw-7w73 NOAA National Centers for
+Environmental Information gov.noaa.nodc:0209268 NCEI Archive Management System
+0209268 NOAA National Centers for Environmental Information ncei.info@noaa.gov https://
+www.ncei.noaa.gov/contact HTTPS NCEI Contact Information Information for contacts at
+NCEI. information publisher Adam B. Smith NOAA National Centers for Environmental
+Information (NCEI) adam.smith@noaa.gov resourceProvider NOAA National Centers for
+Environmental Information (NCEI) resourceProvider Smith, Adam B. NOAA National Centers for
+Environmental Information author NOAA National Centers for Environmental Information (NCEI)
+contributor tableDigital The NOAA National Centers for Environmental Information ceased
+providing support for this product in May 2025 in response to an initiative to implement
+reductions within the U.S. federal government. This dataset contains U.S. disaster cost
+assessments of the total, direct losses ($) inflicted by: tropical cyclones, inland floods, drought
+& heat waves, severe local storms (i.e., tornado, hail, straight-line wind damage), wildfires, crop
+freeze events and winter storms. These assessments require input from a variety of public and
+private data sources including: the Insurance Services Office (ISO) Property Claim Services
+(PCS), Federal Emergency Management Agency (FEMA) National Flood Insurance Program
+(NFIP) and Presidential Disaster Declaration (PDD) assistance, and the United States
+Department of Agriculture (USDA) National Agricultural Statistics Service (NASS) & Risk
+Management Agency (RMA), the National Interagency Fire Center (NIFC) and state agency
+reporting, among others. Each of these data sources provides unique information as part of the
+overall disaster loss assessment. This dataset is available to the public for a wide variety of
+uses including scientific research and analysis. completed historicalArchive NOAA National
+Centers for Environmental Information ncei.info@noaa.gov https://www.ncei.noaa.gov/contact
+HTTPS NCEI Contact Information Information for contacts at NCEI. information pointOfContact
+notPlanned NCEI Accession 0209268 was revised and a new version of the archival package
+was published. Updates to existing archival packages may provide additional files or replace
+obsolete files. The latest version contains the most complete and up-to-date representation of
+this archival information package. All of the files received prior to this update are available in
+the preceding version of this accession. Please see journal.txt in the /about directory for
+
+additional details on changes made. https://www.ncei.noaa.gov/access/metadata/landing-
+page/bin/gfx?id=gov.noaa.nodc:0209268 Preview graphic PNG 0209268 NCEI ACCESSION
+
+NUMBER 2024-07-10 publication SOCIOECONOMIC theme NODC DATA TYPES THESAURUS
+NOAA National Centers for Environmental Information dataCentre NODC COLLECTING
+INSTITUTION NAMES THESAURUS NOAA National Centers for Environmental Information
+dataCentre NODC SUBMITTING INSTITUTION NAMES THESAURUS oceanography theme
+WMO_CategoryCode 2012-09-15 publication DOC/NOAA/NESDIS/NCEI > National Centers for
+Environmental Information, NESDIS, NOAA, U.S. Department of Commerce dataCentre Global
+Change Master Directory (GCMD) Data Center Keywords 2026 revision 24 Earth Science Data
+and Information System, Earth Science Projects Division, Goddard Space Flight Center
+(GSFC), National Aeronautics and Space Administration (NASA) Greenbelt MD https://
+forum.earthdata.nasa.gov/app.php/tag/GCMD%2BKeywords HTTPS GCMD Keyword Forum
+Page Global Change Master Directory (GCMD). 2025. GCMD Keywords, Version 21. Greenbelt,
+MD: Earth Science Data and Information System, Earth Science Projects Division, Goddard
+Space Flight Center (GSFC), National Aeronautics and Space Administration (NASA). URL
+(GCMD Keyword Forum Page): https://forum.earthdata.nasa.gov/app.php/tag/
+GCMD+Keywords information custodian EARTH SCIENCE > HUMAN DIMENSIONS >
+SOCIOECONOMICS theme Global Change Master Directory (GCMD) Science Keywords 2026
+revision 24 Earth Science Data and Information System, Earth Science Projects Division,
+
+Goddard Space Flight Center (GSFC), National Aeronautics and Space Administration (NASA)
+Greenbelt MD https://forum.earthdata.nasa.gov/app.php/tag/GCMD%2BKeywords HTTPS
+GCMD Keyword Forum Page Global Change Master Directory (GCMD). 2025. GCMD
+Keywords, Version 21. Greenbelt, MD: Earth Science Data and Information System, Earth
+Science Projects Division, Goddard Space Flight Center (GSFC), National Aeronautics and
+Space Administration (NASA). URL (GCMD Keyword Forum Page): https://
+forum.earthdata.nasa.gov/app.php/tag/GCMD+Keywords information custodian Arizona
+Severe Weather (October 2010) Arkansas River Flooding (June 2019) Blizzard/Floods (January
+1996) California Flooding (February 2017) California Flooding (January-March 1995) California
+Flooding and Severe Weather (January 2021) California Freeze (December 1990) California
+Freeze (December 1998) California Freeze (January 2007) California Wildfires (Fall 1993)
+California Wildfires (Fall 2003) California and Alaska Wildfires (Summer-Fall 2019) Central
+Severe Storms (July 2021) Central Severe Weather (April 2014) Central Severe Weather (July
+2020) Central Severe Weather (May 2019) Central Severe Weather (October 2006) Central
+Severe Weather - Derecho (August 2020) Central Tornadoes and Severe Weather (May 2009)
+Central and Eastern Severe Weather (May 2018) Central and Eastern Severe Weather (May
+2020) Central and Eastern Tornadoes and Severe Weather (July 2018) Central and Eastern
+Winter Storm (January 1999) Central and Eastern Winter Storm (January 2018) Central and
+Eastern Winter Storm (Mid-January 1999) Central and Eastern Winter storm, Cold Wave
+(February 2015) Central and Northeast Severe Weather (June 2015) Central and Northeastern
+Severe Weather (May 2018) Central, Southern and Eastern Severe Weather (April 2020) Central,
+Southern and Northeast Drought/Heatwave (September 1995) Central/Eastern Drought/
+Heatwave (Summer-Fall 1980) Central/Southeast Tornado Outbreak (March 2017) Colorado
+Flooding (September 2013) Colorado Hail Storm (July 1990) Colorado Hail Storm (July 2009)
+Colorado Hail Storm (June 2018) Colorado Hail Storm and Central Severe Weather (May 2017)
+Colorado Hail Storms (July 2019) East Coast Blizzard and Severe Weather (March 1993) East/
+South Flooding and Severe Weather (May 2010) East/South Severe Weather and Flooding (April
+2007) Eastern Drought/Heatwave (Summer 1999) Eastern Severe Weather (March 2021)
+Eastern Tornadoes and Severe Storms (November 2002) Florida Freeze (December 1989)
+Florida Freeze (January 1981) Florida Freeze (January 1985) Freeze, Cold Wave (December
+1983) Groundhog Day Blizzard (February 2011) Gulf States Storms and Flooding (December
+1982-January 1983) Hail, Tornadoes (April 1992) Houston Flooding (April 2016) Hurricane Alicia
+(August 1983) Hurricane Allen (August 1980) Hurricane Andrew (August 1992) Hurricane Bob
+(August 1991) Hurricane Bonnie (August 1998) Hurricane Charley (August 2004) Hurricane
+Delta (October 2020) Hurricane Dennis (July 2005) Hurricane Dolly (July 2008) Hurricane Dorian
+(September 2019) Hurricane Elena (September 1985) Hurricane Erin (August 1995) Hurricane
+Florence (September 2018) Hurricane Floyd (September 1999) Hurricane Fran (September
+1996) Hurricane Frances (September 2004) Hurricane Georges (September 1998) Hurricane
+Gloria (September 1985) Hurricane Gustav (September 2008) Hurricane Hanna (July 2020)
+Hurricane Harvey (August 2017) Hurricane Hugo (September 1989) Hurricane Ida (August 2021)
+Hurricane Ike (September 2008) Hurricane Iniki (September 1992) Hurricane Irene (August
+2011) Hurricane Irma (September 2017) Hurricane Isaac (August 2012) Hurricane Isabel
+(September 2003) Hurricane Isaias (August 2020) Hurricane Ivan (September 2004) Hurricane
+Jeanne (September 2004) Hurricane Juan (October 1985) Hurricane Katrina (August 2005)
+Hurricane Laura (August 2020) Hurricane Lili (October 2002) Hurricane Maria (September 2017)
+Hurricane Marilyn (September 1995) Hurricane Matthew (October 2016) Hurricane Michael
+(October 2018) Hurricane Nicholas (September 2021) Hurricane Opal (October 1995) Hurricane
+Rita (September 2005) Hurricane Sally (September 2020) Hurricane Sandy (October 2012)
+Hurricane Wilma (October 2005) Hurricane Zeta (October 2020) Illinois Flooding and Severe
+Weather (April 2013) Louisiana Flooding (August 2016) Louisiana Flooding and Central Severe
+
+Weather (May 2021) Michigan and Northeast Flooding (August 2014) Midwest Drought (Spring-
+Summer 2005) Midwest Flooding (Summer 1993) Midwest Flooding (Summer 2008) Midwest
+
+Severe Weather (August 2013) Midwest Severe Weather (June 2017) Midwest Tornado
+Outbreak (March 2017) Midwest Tornadoes (April 2006) Midwest Tornadoes (April 2012)
+
+Midwest Tornadoes and Severe Weather (May 2008) Midwest and Ohio Valley Severe Weather
+(March 2020) Midwest, South and East Severe Weather (June 2009) Midwest/Mid-Atlantic
+Severe Weather (June 2008) Midwest/Northeast Severe Storms and Flooding (July 2010)
+Midwest/Ohio Valley Hail and Tornadoes (April 2001) Midwest/Ohio Valley Severe Weather
+(April 2015) Midwest/Ohio Valley Severe Weather (April-May 2012) Midwest/Plains Severe
+Weather (April 2013) Midwest/Plains Severe Weather (July 2003) Midwest/Plains Tornadoes
+(April 1994) Midwest/Plains/East Tornadoes (May 2013) Midwest/Plains/Northeast Tornadoes
+(May 2013) Midwest/Plains/Southeast Drought (Spring-Summer 2006) Midwest/Plains/
+Southeast Tornadoes (April 1982) Midwest/Southeast Severe Weather (August 2011) Midwest/
+Southeast Tornadoes (April 2011) Midwest/Southeast Tornadoes (April 6-8, 2006) Midwest/
+Southeast Tornadoes (March 2009) Midwest/Southeast Tornadoes (May 2011) Midwest/
+Southeast Tornadoes and Severe Weather (June 2011) Midwest/Southeast/Northeast
+Tornadoes and Flooding (April 2014) Midwest/Southeast/Northeast Winter Storm (January
+2014) Midwest/Southeast/Northeast Winter Storm, Cold Wave (January 1982) Minnesota Hail
+Storm and Upper Midwest Severe Weather (June 2017) Minnesota Severe Storms/Hail (May
+1998) Mississippi River flooding (April-May 2011) Mississippi River, Midwest and Southern
+Flooding (July 2019) Mississippi and Ohio Valley Severe Weather and Flooding (March 1997)
+Missouri River and North Central Flooding (March 2019) Missouri River flooding (May-June
+2011) Missouri and Arkansas Flooding and Central Severe Weather (May 2017) North Central
+Severe Weather (August 2021) North Central and Ohio Valley Hail Storms and Severe Weather
+(April 2020) North Dakota, South Dakota and Montana Drought (Spring-Fall 2017) North Texas
+Hail Storm (March 2016) North/Central Texas Hail Storm (April 2016) Northeast Flooding (June
+2006) Northeast Flooding (March 2010) Northeast Ice Storm (January 1998) Northeast Winter
+Storm (December 1992) Northeast Winter Storm (February 2010) Northeast Winter Storm
+(March 2018) Northern Plains Drought (Summer-Fall 1989) Northern Plains Flooding (Spring
+1997) Northern Plains and Ohio Valley Severe Weather (July 1993) Northwest, Central, Eastern
+Winter Storm and Cold Wave (February 2021) Numerous Wildfires (2006) Oakland Firestorm
+(October 1991) Ohio Valley Tornadoes (November 2013) Ohio Valley/South Tornadoes (April
+2011) Oklahoma and Kansas Tornadoes (May 1999) Oklahoma, Kansas, and Texas Tornadoes
+and Severe Weather (May 2010) Pacific Northwest Severe Flooding (February 1996) Plains
+Severe Weather (April 2014) Plains Tornadoes and Central Severe Weather (May 2016) Plains/
+East/Northeast Severe Weather (June-July 2012) Rockies and Midwest Severe Weather (July
+2011) Rockies and Northeast Severe Weather (July 2016) Rockies and Plains Hail Storms
+(August 2018) Rockies, Central and Northeast Tornadoes and Severe Weather (May 2019)
+Rockies/Central Plains Severe Weather (June 2014) Rockies/Central Tornadoes and Severe
+Weather (May 2016) Rockies/Central/East Severe Weather (June 2010) Rockies/Midwest/
+Eastern Severe Weather (May 2014) Rockies/Plains Severe Weather (September 2014) Rockies/
+Southwest Severe Weather (June 2012) Severe Storms (June 1982) Severe Storms (March
+1992) Severe Storms (May 1989) Severe Storms and Hail (June 1984) Severe Storms and
+Tornadoes (April 2002) Severe Storms and Tornadoes (March 2006) Severe Storms, Flash
+Floods, Hail, Tornadoes (May 1981) Severe Storms, Hail (June 1992) Severe Storms, Hail,
+Tornadoes (May 2004) Severe Storms, Tornadoes (June 1998) Severe Storms, Tornadoes
+(March 1991) Severe Storms/Hail (April 2003) Severe Storms/Tornadoes (May 2003) Severe
+Weather (July 2003) South Carolina and East Coast Flooding (October 2015) South Florida
+Flooding (October 2000) South Plains Severe Weather (May 1995) South Texas Hail Storms
+(May 2020) South and Southeast Severe Weather (April 2015) South and Southeast Severe
+Weather (May 2019) South, Central and Eastern Severe Weather (May 2020) South, East and
+Northeast Severe Weather (February 2020) South/Southeast Severe Weather (April 2015)
+South/Southeast Severe Weather (March 2017) South/Southeast Severe Weather and
+Tornadoes (April 2009) South/Southeast Tornadoes (April 2016) Southeast Drought (Summer
+1983) Southeast Drought/Heat Wave (Summer 1993) Southeast Drought/Heatwave (Summer
+1986) Southeast Freeze (March 2017) Southeast Ice Storm (February 1994) Southeast Severe
+Weather (March 2005) Southeast Severe Weather (March 2013) Southeast Severe Weather
+(November 1992) Southeast Tornadoes (March 2008) Southeast Tornadoes and Northern
+
+Storms and Flooding (January 2020) Southeast Tornadoes and Severe Weather (February 2008)
+Southeast Tornadoes and Severe Weather (March 2021) Southeast Winter Storm (January
+2000) Southeast and Eastern Tornado Outbreak (April 2020) Southeast and Eastern Tornadoes
+(February 2016) Southeast, Ohio Valley and Northeast Severe Weather (February 2019)
+Southeast/Midwest Tornadoes (April 2011) Southeast/Ohio Valley Severe Weather (February
+2009) Southeast/Ohio Valley Tornadoes (March 2012) Southeast/Ohio Valley/Midwest
+Tornadoes (April 2011) Southeastern Tornadoes and Severe Weather (March 2018) Southern
+Drought/Heat Wave (Summer 1998) Southern Flooding (May 1990) Southern Plains Drought
+(Spring-Summer 1996) Southern Plains Tornadoes (May 2015) Southern Plains/Midwest/
+Northeast Severe Weather (May 2012) Southern Plains/Southwest Drought and Heat Wave
+(Spring-Summer 2011) Southern Severe Storms and Flooding (April 1980) Southern Severe
+Weather (April 2008) Southern Severe Weather (April 2020) Southern Severe Weather (February
+2013) Southern Severe Weather (March 2000) Southern Severe Weather (March 2016) Southern
+Tornado Outbreak and Western Storms (January 2017) Southern and Eastern Tornadoes and
+Severe Weather (April 2018) Southern and Eastern Tornadoes and Severe Weather (April 2019)
+Southwest/Great Plains Drought (2009) Southwest/Southern Plains Drought (Summer-Fall
+2018) Spring Freeze (April 2007) Tennessee Tornadoes and Southeast Severe Weather (March
+2020) Texas Flooding (October 1994) Texas Flooding (October 1998) Texas Hail Storm (June
+2018) Texas Hail Storm (March 2019) Texas Hail Storms (April 2021) Texas Tornadoes (April
+2012) Texas Tornadoes and Central Severe Weather (October 2019) Texas Tornadoes and
+Midwest Flooding (December 2015) Texas and Louisiana Flooding (March 2016) Texas and
+Oklahoma Flooding and Severe Weather (May 2015) Texas and Oklahoma Severe Weather
+(April 2021) Texas, New Mexico, Arizona Wildfires (Summer-Fall 2011) Tornadoes, Severe
+Storms, Floods (Spring 1984) Tropical Storm Alberto (July 1994) Tropical Storm Allison (June
+2001) Tropical Storm Elsa (July 2021) Tropical Storm Eta (November 2020) Tropical Storm
+Frances (September 1998) Tropical Storm Fred (August 2021) Tropical Storm Imelda
+(September 2019) Tropical Storm Isidore (September 2002) Tropical Storm Lee (September
+2011) U.S. Drought (2008) U.S. Drought (Spring-Fall 2002) U.S. Drought (Spring-Summer 1991)
+U.S. Drought/Heatwave (2012) U.S. Drought/Heatwave (Summer 1988) U.S. Wildfires (Fall
+2008) Virginia, West Virginia, Pennsylvania and Maryland Flooding (November 1985) West
+Coast Flooding (December 1996-January 1997) West Virginia Flooding and Ohio Valley
+Tornadoes (June 2016) West/Northeast/Southeast Drought (2016) Western Drought (2014)
+Western Drought (2015) Western Drought and Heatwave (2021) Western Drought and
+Heatwave (June 2021) Western Fire Season (Fall 2002) Western Fire Season (Spring-Summer
+2000) Western Fire Season (Summer-Fall 1994) Western Severe Storms and Flooding (February
+1986) Western Storms and Flooding (December 1982-March 1983) Western Wildfires (Summer
+2007) Western Wildfires (Summer-Fall 2009) Western Wildfires (Summer-Fall 2012) Western
+Wildfires (Summer-Fall 2021) Western Wildfires - California, Oregon, Washington Firestorms
+(Fall 2020) Western Wildfires, California Firestorm (Summer-Fall 2017) Western Wildfires,
+California Firestorm (Summer-Fall 2018) Western and Alaskan Wildfires (Summer-Fall 2015)
+Western, Central and Northeast Severe Weather (January 2008) Western/Central Drought and
+Heatwave (Summer-Fall 2020) Western/Central Drought/Heatwave (Spring-Fall 2003) Western/
+Central/Southeast Drought/Heatwave (Spring-Fall 2000) Western/Eastern Drought/Heatwave
+(Summer-Fall 2007) Western/Eastern Severe Weather and Flooding (Winter-Spring 1998)
+
+Western/Plains Drought/Heatwave (Spring-Fall 2013) Western/Southeast Wildfires (Summer-
+Fall 2016) Winter Storm, Cold Wave (December 1989) Winter Storm, Cold Wave (January 1985)
+
+Winter Storm, Cold Wave (January 1994) theme Provider Disaster Name Keywords Drought
+Flooding Freeze Severe Storm Tropical Cyclone Wildfire Winter Storm theme Provider Disaster
+Type Keywords Consumer Price Index (CPI) death disaster natural hazards theme Provider
+Keywords CONTINENT > NORTH AMERICA > UNITED STATES OF AMERICA place Global
+Change Master Directory (GCMD) Location Keywords 2026 revision 24 Earth Science Data and
+Information System, Earth Science Projects Division, Goddard Space Flight Center (GSFC),
+National Aeronautics and Space Administration (NASA) Greenbelt MD https://
+forum.earthdata.nasa.gov/app.php/tag/GCMD%2BKeywords HTTPS GCMD Keyword Forum
+
+Page Global Change Master Directory (GCMD). 2025. GCMD Keywords, Version 21. Greenbelt,
+MD: Earth Science Data and Information System, Earth Science Projects Division, Goddard
+Space Flight Center (GSFC), National Aeronautics and Space Administration (NASA). URL
+(GCMD Keyword Forum Page): https://forum.earthdata.nasa.gov/app.php/tag/
+GCMD+Keywords information custodian Alaska Hawaii contiguous United States place
+Provider Place Names accessLevel: public otherRestrictions Cite as: Smith, Adam B. (2020).
+U.S. Billion-dollar Weather and Climate Disasters, 1980 - present (NCEI Accession 0209268).
+[indicate subset used]. NOAA National Centers for Environmental Information. Dataset. https://
+doi.org/10.25921/stkw-7w73. Accessed [date]. Distribution liability: NOAA and NCEI make no
+warranty, expressed or implied, regarding these data, nor does the fact of distribution
+constitute such a warranty. NOAA and NCEI cannot assume liability for any damages caused
+by any errors or omissions in these data. If appropriate, NCEI can only certify that the data it
+distributes are an authentic copy of the records that were accepted for inclusion in the NCEI
+archives. otherRestrictions Use liability: NOAA and NCEI cannot provide any warranty as to the
+accuracy, reliability, or completeness of furnished data. Users assume responsibility to
+determine the usability of these data. The user is responsible for the results of any application
+of this data for other than its intended purpose. ISO's Property Claim Services (PCS) 2020
+publication https://pcs.iso.com/ HTTPS ISO's Property Claim Services (PCS) Customer Log In
+Webpages information crossReference OpenFEMA Dataset: Public Assistance Funded Projects
+
+Details - V1 2020 publication https://www.fema.gov/openfema-dataset-public-assistance-
+funded-projects-details-v1 HTTPS OpenFEMA Dataset: Public Assistance Funded Projects
+
+Details - V1 Metadata for the Public Assistance (PA) Funded Projects Details API data feed
+information crossReference Federal Insurance & Mitigation Administration National Flood
+Insurance Program (FIMA NFIP) Redacted Claims Dataset 2020 publication https://
+www.fema.gov/media-library/assets/documents/180374 HTTPS Federal Insurance & Mitigation
+Administration National Flood Insurance Program (FIMA NFIP) Redacted Claims Dataset FIMA
+NFIP Redacted Claims Data Set information crossReference FEMA Individual Assistance data
+
+2020 publication https://www.fema.gov/openfema-dataset-individual-assistance-housing-
+registrants-large-disasters-v1 HTTPS FEMA Individual Assistance data Metadata for the
+
+Individual Assistance Housing Registrants Large Disasters API data feed information
+crossReference U.S. Army Corp Engineers (USACE) Civil Works Business Intelligence Open
+API 2020 publication https://navdata-test.ops.usace.army.mil/data/docs/ HTTPS U.S. Army
+Corp Engineers (USACE) Civil Works Business Intelligence Open API Civil Works Business
+Intelligence Open API information crossReference United States Department of Agriculture
+(USDA) National Agricultural Statistics Service 2020 publication https://www.nass.usda.gov/
+Publications/Ag_Statistics/index.php HTTPS United States Department of Agriculture (USDA)
+National Agricultural Statistics Service Agricultural Statistics, Annual information
+crossReference United States Department of Agriculture (USDA) Cause of Loss Historical Data
+Files 2020 publication https://www.rma.usda.gov/SummaryOfBusiness/CauseOfLoss HTTPS
+United States Department of Agriculture (USDA) Cause of Loss Historical Data Files Cause of
+Loss Historical Data Files information crossReference United States Department of Agriculture
+(USDA) crop acreage (including failed to plant) data 2020 publication https://
+
+www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-
+information/crop-acreage-data/index HTTPS United States Department of Agriculture (USDA)
+
+crop acreage (including failed to plant) data crop acreage data information crossReference U.S.
+Billion-dollar Weather and Climate Disasters: Data Sources, Trends, Accuracy and Biases 2013
+
+publication https://www.ncdc.noaa.gov/monitoring-content/billions/docs/smith-and-
+katz-2013.pdf HTTPS U.S. Billion-dollar Weather and Climate Disasters: Data Sources, Trends,
+
+Accuracy and Biases U.S. Disaster analysis information crossReference Quantifying
+Uncertainty and Variable Sensitivity within the U.S. Billion-dollar Weather and Climate Disaster
+Cost Estimates 2013 publication https://www.ncdc.noaa.gov/monitoring-content/billions/docs/
+smith-and-matthews-2015.pdf HTTPS Quantifying Uncertainty and Variable Sensitivity within
+the U.S. Billion-dollar Weather and Climate Disaster Cost Estimates U.S. Disaster analysis
+information crossReference eng; USA utf8 environment society economy 172.4436 -66.9498
+
+5.8709 71.3874 1980-01-01 2024-09-30 In this accession, NCEI has archived multiple versions
+of these data. The latest (and best) version of these data has the largest version number. NOAA
+National Centers for Environmental Information +1-301-713-3277 ncei.info@noaa.gov
+pointOfContact In most cases, electronic downloads of the data are free. However, fees may
+apply for custom orders, data certifications, copies of analog materials, and data distribution
+on physical media. Contact NCEI for other distribution options and instructions. CSV PNG
+0.864 https://doi.org/10.25921/stkw-7w73 HTTPS Web browser NCEI Dataset Landing Page
+Navigate directly to the URL for a descriptive web page with download links. information
+https://www.ncei.noaa.gov/archive/accession/oas/209268 HTTPS Web browser Descriptive
+Information Navigate directly to the URL for a descriptive web page with download links.
+information https://www.ncei.noaa.gov/archive/accession/download/209268 HTTPS Web
+browser HTTPS Navigate directly to the URL for data access and direct download. download
+ftp://ftp-oceans.ncei.noaa.gov/nodc/archive/arc0153/0209268/ FTP Any FTP client FTP These
+data are available through the File Transfer Protocol (FTP). FTP is no longer supported by most
+internet browsers. You may copy and paste the FTP link to the data into an FTP client (e.g.,
+FileZilla or WinSCP). download dataset NCEI Accession 0209268 v1.1 was published.
+2020-03-17T22:02:14Z NCEI Accession 0209268 v1.1 publication https://www.ncei.noaa.gov/
+archive/accession/0209268/1.1 HTTPS NCEI Accession 0209268 v1.1 published
+2020-03-17T22:02:14Z download NCEI Accession 0209268 was revised and v2.2 was
+published. Updates were received for this dataset. These updates were copied into the data/0-
+data/ directory of this accession. These updates may provide additional files or replace
+obsolete files. This version contains the most complete and up-to-date representation of this
+archival information package. All of the files received prior to this update are available in the
+preceding version of this accession. 2020-04-14T13:04:22Z NCEI Accession 0209268 v2.2
+publication https://www.ncei.noaa.gov/archive/accession/0209268/2.2 HTTPS NCEI Accession
+0209268 v2.2 published 2020-04-14T13:04:22Z download NCEI Accession 0209268 was
+revised and v3.3 was published. Updates were received for this dataset. These updates were
+copied into the data/0-data/ directory of this accession. These updates may provide additional
+files or replace obsolete files. This version contains the most complete and up-to-date
+representation of this archival information package. All of the files received prior to this update
+are available in the preceding version of this accession. 2020-09-03T21:23:27Z NCEI
+Accession 0209268 v3.3 publication https://www.ncei.noaa.gov/archive/accession/
+0209268/3.3 HTTPS NCEI Accession 0209268 v3.3 published 2020-09-03T21:23:27Z
+download NCEI Accession 0209268 was revised and v4.4 was published. Updates were
+received for this dataset. These updates were copied into the data/0-data/ directory of this
+accession. These updates may provide additional files or replace obsolete files. This version
+contains the most complete and up-to-date representation of this archival information
+package. All of the files received prior to this update are available in the preceding version of
+this accession. 2020-10-15T18:40:44Z NCEI Accession 0209268 v4.4 publication https://
+www.ncei.noaa.gov/archive/accession/0209268/4.4 HTTPS NCEI Accession 0209268 v4.4
+published 2020-10-15T18:40:44Z download NCEI Accession 0209268 was revised and v5.5
+was published. Updates were received for this dataset. These updates were copied into the
+data/0-data/ directory of this accession. These updates may provide additional files or replace
+obsolete files. This version contains the most complete and up-to-date representation of this
+archival information package. All of the files received prior to this update are available in the
+preceding version of this accession. 2021-01-14T22:53:41Z NCEI Accession 0209268 v5.5
+publication https://www.ncei.noaa.gov/archive/accession/0209268/5.5 HTTPS NCEI Accession
+0209268 v5.5 published 2021-01-14T22:53:41Z download NCEI Accession 0209268 was
+revised and v6.6 was published. Updates were received for this dataset. These updates were
+copied into the data/0-data/ directory of this accession. These updates may provide additional
+files or replace obsolete files. This version contains the most complete and up-to-date
+representation of this archival information package. All of the files received prior to this update
+are available in the preceding version of this accession. 2021-05-05T21:05:13Z NCEI
+Accession 0209268 v6.6 publication https://www.ncei.noaa.gov/archive/accession/
+
+0209268/6.6 HTTPS NCEI Accession 0209268 v6.6 published 2021-05-05T21:05:13Z
+download NCEI Accession 0209268 was revised and v7.7 was published. Updates were
+received for this dataset. These updates were copied into the data/0-data/ directory of this
+accession. These updates may provide additional files or replace obsolete files. This version
+contains the most complete and up-to-date representation of this archival information
+package. All of the files received prior to this update are available in the preceding version of
+this accession. 2021-07-14T17:02:23Z NCEI Accession 0209268 v7.7 publication https://
+www.ncei.noaa.gov/archive/accession/0209268/7.7 HTTPS NCEI Accession 0209268 v7.7
+published 2021-07-14T17:02:23Z download NCEI Accession 0209268 was revised and v8.8
+was published. Updates were received for this dataset. These updates were copied into the
+data/0-data/ directory of this accession. These updates may provide additional files or replace
+obsolete files. This version contains the most complete and up-to-date representation of this
+archival information package. All of the files received prior to this update are available in the
+preceding version of this accession. 2021-10-21T20:07:15Z NCEI Accession 0209268 v8.8
+publication https://www.ncei.noaa.gov/archive/accession/0209268/8.8 HTTPS NCEI Accession
+0209268 v8.8 published 2021-10-21T20:07:15Z download NCEI Accession 0209268 was
+revised and v9.9 was published. Updates were received for this dataset. These updates were
+copied into the data/0-data/ directory of this accession. These updates may provide additional
+files or replace obsolete files. This version contains the most complete and up-to-date
+representation of this archival information package. All of the files received prior to this update
+are available in the preceding version of this accession. 2022-01-24T22:19:26Z NCEI
+Accession 0209268 v9.9 publication https://www.ncei.noaa.gov/archive/accession/
+0209268/9.9 HTTPS NCEI Accession 0209268 v9.9 published 2022-01-24T22:19:26Z
+download NCEI Accession 0209268 was revised and v10.10 was published. Updates were
+received for this dataset. These updates were copied into the data/0-data/ directory of this
+accession. These updates may provide additional files or replace obsolete files. This version
+contains the most complete and up-to-date representation of this archival information
+package. All of the files received prior to this update are available in the preceding version of
+this accession. 2022-04-15T20:18:30Z NCEI Accession 0209268 v10.10 publication https://
+www.ncei.noaa.gov/archive/accession/0209268/10.10 HTTPS NCEI Accession 0209268
+v10.10 published 2022-04-15T20:18:30Z download NCEI Accession 0209268 was revised and
+v11.11 was published. Updates were received for this dataset. These updates were copied into
+the data/0-data/ directory of this accession. These updates may provide additional files or
+replace obsolete files. This version contains the most complete and up-to-date representation
+of this archival information package. All of the files received prior to this update are available in
+the preceding version of this accession. 2022-07-21T03:08:32Z NCEI Accession 0209268
+v11.11 publication https://www.ncei.noaa.gov/archive/accession/0209268/11.11 HTTPS NCEI
+Accession 0209268 v11.11 published 2022-07-21T03:08:32Z download NCEI Accession
+0209268 was revised and v12.12 was published. Updates were received for this dataset. These
+updates were copied into the data/0-data/ directory of this accession. These updates may
+provide additional files or replace obsolete files. This version contains the most complete and
+up-to-date representation of this archival information package. All of the files received prior to
+this update are available in the preceding version of this accession. 2022-10-20T20:43:05Z
+NCEI Accession 0209268 v12.12 publication https://www.ncei.noaa.gov/archive/accession/
+0209268/12.12 HTTPS NCEI Accession 0209268 v12.12 published 2022-10-20T20:43:05Z
+download NCEI Accession 0209268 was revised and v13.13 was published. Updates were
+received for this dataset. These updates were copied into the data/0-data/ directory of this
+accession. These updates may provide additional files or replace obsolete files. This version
+contains the most complete and up-to-date representation of this archival information
+package. All of the files received prior to this update are available in the preceding version of
+this accession. 2023-01-20T21:56:33Z NCEI Accession 0209268 v13.13 publication https://
+www.ncei.noaa.gov/archive/accession/0209268/13.13 HTTPS NCEI Accession 0209268
+v13.13 published 2023-01-20T21:56:33Z download NCEI Accession 0209268 was revised and
+v14.14 was published. Updates were received for this dataset. These updates were copied into
+
+the data/0-data/ directory of this accession. These updates may provide additional files or
+replace obsolete files. This version contains the most complete and up-to-date representation
+of this archival information package. All of the files received prior to this update are available in
+the preceding version of this accession. 2023-05-12T20:50:29Z NCEI Accession 0209268
+v14.14 publication https://www.ncei.noaa.gov/archive/accession/0209268/14.14 HTTPS NCEI
+Accession 0209268 v14.14 published 2023-05-12T20:50:29Z download NCEI Accession
+0209268 was revised and v15.15 was published. Updates were received for this dataset. These
+updates were copied into the data/0-data/ directory of this accession. These updates may
+provide additional files or replace obsolete files. This version contains the most complete and
+up-to-date representation of this archival information package. All of the files received prior to
+this update are available in the preceding version of this accession. 2023-07-28T23:19:26Z
+NCEI Accession 0209268 v15.15 publication https://www.ncei.noaa.gov/archive/accession/
+0209268/15.15 HTTPS NCEI Accession 0209268 v15.15 published 2023-07-28T23:19:26Z
+download NCEI Accession 0209268 was revised and v16.16 was published. Updates were
+received for this dataset. These updates were copied into the data/0-data/ directory of this
+accession. These updates may provide additional files or replace obsolete files. This version
+contains the most complete and up-to-date representation of this archival information
+package. All of the files received prior to this update are available in the preceding version of
+this accession. 2023-11-13T18:58:27Z NCEI Accession 0209268 v16.16 publication https://
+www.ncei.noaa.gov/archive/accession/0209268/16.16 HTTPS NCEI Accession 0209268
+v16.16 published 2023-11-13T18:58:27Z download NCEI Accession 0209268 was revised and
+v17.17 was published. Updates were received for this dataset. These updates were copied into
+the data/0-data/ directory of this accession. These updates may provide additional files or
+replace obsolete files. This version contains the most complete and up-to-date representation
+of this archival information package. All of the files received prior to this update are available in
+the preceding version of this accession. 2024-01-12T20:20:36Z NCEI Accession 0209268
+v17.17 publication https://www.ncei.noaa.gov/archive/accession/0209268/17.17 HTTPS NCEI
+Accession 0209268 v17.17 published 2024-01-12T20:20:36Z download NCEI Accession
+0209268 was revised and v18.18 was published. Updates were received for this dataset. These
+updates were copied into the data/0-data/ directory of this accession. These updates may
+provide additional files or replace obsolete files. This version contains the most complete and
+up-to-date representation of this archival information package. All of the files received prior to
+this update are available in the preceding version of this accession. 2024-04-25T19:18:33Z
+NCEI Accession 0209268 v18.18 publication https://www.ncei.noaa.gov/archive/accession/
+0209268/18.18 HTTPS NCEI Accession 0209268 v18.18 published 2024-04-25T19:18:33Z
+download NCEI Accession 0209268 was revised and v19.19 was published. Updates were
+received for this dataset. These updates were copied into the data/0-data/ directory of this
+accession. These updates may provide additional files or replace obsolete files. This version
+contains the most complete and up-to-date representation of this archival information
+package. All of the files received prior to this update are available in the preceding version of
+this accession. 2024-07-12T17:49:25Z NCEI Accession 0209268 v19.19 publication https://
+www.ncei.noaa.gov/archive/accession/0209268/19.19 HTTPS NCEI Accession 0209268
+v19.19 published 2024-07-12T17:49:25Z download NCEI Accession 0209268 was revised and
+v20.20 was published. Updates were received for this dataset. These updates were copied into
+the data/0-data/ directory of this accession. These updates may provide additional files or
+replace obsolete files. This version contains the most complete and up-to-date representation
+of this archival information package. All of the files received prior to this update are available in
+the preceding version of this accession. 2024-11-04T19:28:17Z NCEI Accession 0209268
+v20.20 publication https://www.ncei.noaa.gov/archive/accession/0209268/20.20 HTTPS NCEI
+Accession 0209268 v20.20 published 2024-11-04T19:28:17Z download NCEI Accession
+0209268 was revised and v21.21 was published. Updates were received for this dataset. These
+updates were copied into the data/0-data/ directory of this accession. These updates may
+provide additional files or replace obsolete files. This version contains the most complete and
+up-to-date representation of this archival information package. All of the files received prior to
+
+this update are available in the preceding version of this accession. 2025-01-21T19:57:42Z
+NCEI Accession 0209268 v21.21 publication https://www.ncei.noaa.gov/archive/accession/
+0209268/21.21 HTTPS NCEI Accession 0209268 v21.21 published 2025-01-21T19:57:42Z
+download asNeeded Metadata are developed, maintained and distributed by NCEI. Updates
+are performed as needed to maintain currentness. NOAA National Centers for Environmental
+Information custodian
+
+
+{
+"$schema": "http://json-schema.org/draft-07/schema#",
+"title": "LighthouseUnifiedHazardSchema",
+"description": "Enterprise-grade federal modernization schema blueprint engineered by Skinny Corp via CODY v7.0 for high-throughput ingestion networks.",
+"type": "object",
+
+"required": [
+"dataset_metadata",
+"data_governance",
+"security_profile",
+"modernized_records"
+],
+
+"properties": {
+"dataset_metadata": {
+"type": "object",
+"required": [
+"dataset_name",
+"accession_number",
+"doi",
+"source",
+"publisher",
+"support_status",
+"publication_lifecycle",
+"time_range",
+"spatial_bounding_box"
+],
+"properties": {
+"dataset_name": { "type": "string" },
+"accession_number": { "type": "string" },
+"doi": { "type": "string", "pattern": "^10\\.[0-9]{4,9}/[-._;()/:A-Za-z0-9]+$" },
+"source": { "type": "string" },
+"publisher": { "type": "string" },
+"support_status": { "type": "string" },
+
+"publication_lifecycle": {
+"type": "object",
+"required": ["created", "published", "revised", "last_modified"],
+"properties": {
+"created": { "type": "string", "format": "date" },
+"published": { "type": "string", "format": "date" },
+"revised": { "type": "string", "format": "date" },
+"last_modified": { "type": "string", "format": "date-time" }
+}
+},
+
+"time_range": {
+"type": "object",
+"required": ["start", "end"],
+"properties": {
+"start": { "type": "string", "format": "date" },
+"end": { "type": "string", "format": "date" }
+}
+},
+
+"spatial_bounding_box": {
+"type": "object",
+"required": ["west", "east", "south", "north"],
+"properties": {
+"west": { "type": "number" },
+"east": { "type": "number" },
+"south": { "type": "number" },
+"north": { "type": "number" }
+}
+}
+}
+},
+
+"data_governance": {
+"type": "object",
+"required": [
+"schema_spec",
+"hazard_categories",
+"data_sources",
+"hazard_alignment_rules",
+"agency_mapping_rules"
+],
+"properties": {
+"schema_spec": { "type": "string" },
+"hazard_categories": { "type": "array", "items": { "type": "string" } },
+"data_sources": { "type": "array", "items": { "type": "string" } },
+"hazard_alignment_rules": { "type": "object" },
+"agency_mapping_rules": { "type": "object" }
+}
+},
+
+"security_profile": {
+"type": "object",
+"required": ["zero_trust_model", "fips_compliance"],
+"properties": {
+"zero_trust_model": { "type": "string" },
+
+"fips_compliance": {
+"type": "object",
+"required": ["status", "hash_algorithm", "crypto_module"],
+"properties": {
+"status": { "type": "string" },
+"hash_algorithm": { "type": "string" },
+"crypto_module": { "type": "string" }
+}
+}
+}
+},
+
+"modernized_records": {
+"type": "array",
+"items": {
+"type": "object",
+"required": [
+"event_name",
+"hazard_type",
+"start_date",
+"end_date",
+"states_affected",
+"loss_usd",
+"loss_usd_adjusted",
+"integrity_ledger",
+"quarantine_telemetry",
+"enterprise_metadata_extension"
+],
+
+"properties": {
+"event_name": { "type": "string" },
+"hazard_type": { "type": "string" },
+"start_date": { "type": "string", "format": "date" },
+"end_date": { "type": "string", "format": "date" },
+"states_affected": { "type": "array", "items": { "type": "string" } },
+
+"fatalities": { "type": "integer", "minimum": 0 },
+"loss_usd": { "type": "number", "minimum": 0 },
+"loss_usd_adjusted": { "type": "number", "minimum": 0 },
+
+"primary_sources": { "type": "array", "items": { "type": "string" } },
+"secondary_sources": { "type": "array", "items": { "type": "string" } },
+
+"quarantine_telemetry": {
+"type": "object",
+"required": [
+"is_quarantined",
+"upstream_trigger",
+"sandbox_environment",
+"release_condition"
+],
+"properties": {
+"is_quarantined": { "type": "boolean" },
+"detected_drift_version": { "type": ["string", "null"] },
+"ingestion_exception_msg": { "type": ["string", "null"] },
+"upstream_trigger": { "type": "string" },
+"sandbox_environment": { "type": "string" },
+"release_condition": { "type": "string" }
+}
+},
+
+"integrity_ledger": {
+"type": "object",
+"required": ["record_hash", "prev_record_hash", "on_validation_failure"],
+"properties": {
+"record_hash": {
+"type": "object",
+"required": ["algorithm", "fips_validated", "value"],
+"properties": {
+"algorithm": { "type": "string" },
+"fips_validated": { "type": "boolean" },
+"value": { "type": ["string", "null"] }
+}
+},
+"prev_record_hash": {
+"type": "object",
+"required": ["algorithm", "fips_validated", "value"],
+"properties": {
+"algorithm": { "type": "string" },
+"fips_validated": { "type": "boolean" },
+"value": { "type": ["string", "null"] }
+}
+},
+"on_validation_failure": { "type": "string" }
+}
+},
+
+"enterprise_metadata_extension": {
+"type": "object",
+"required": ["guid_ledger", "regional_boundary_routing", "cryptographic_sanitization", "risk_compliance_telemetry"],
+"properties": {
+"guid_ledger": {
+"type": "object",
+"required": ["payload_uuid", "system_origin_id", "ingestion_timestamp_utc"],
+"properties": {
+"payload_uuid": { "type": "string", "format": "uuid" },
+"system_origin_id": { "type": "string" },
+"ingestion_timestamp_utc": { "type": "string", "format": "date-time" }
+}
+},
+
+"regional_boundary_routing": {
+"type": "object",
+"required": ["primary_fema_region", "gis_validation_status", "grid_coordinate_datum"],
+"properties": {
+"primary_fema_region": { "type": "string" },
+"gis_validation_status": { "type": "string" },
+"grid_coordinate_datum": { "type": "string" }
+}
+},
+
+"cryptographic_sanitization": {
+"type": "object",
+"required": ["pii_scrubbed", "payload_encryption", "sanitization_protocol"],
+"properties": {
+"pii_scrubbed": { "type": "boolean" },
+"payload_encryption": { "type": "string" },
+"sanitization_protocol": { "type": "string" }
+}
+},
+
+"risk_compliance_telemetry": {
+"type": "object",
+"required": ["automated_risk_rating", "structural_density_score", "compliance_baseline_status"],
+"properties": {
+"automated_risk_rating": { "type": "string" },
+"structural_density_score": { "type": "number" },
+"compliance_baseline_status": { "type": "string" }
+}
+}
+}
+}
+}
+}
+}
+}
+}
+
